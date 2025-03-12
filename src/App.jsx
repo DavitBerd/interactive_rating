@@ -1,4 +1,3 @@
-// App.js
 import "./App.css";
 import img from "../src/imgs/Star.png";
 import Buttons from "./components/buttons";
